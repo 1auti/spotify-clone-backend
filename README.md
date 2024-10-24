@@ -2,8 +2,11 @@
 
 Spring boot backend of the spotify clone
 
+[Angular Frontend](https://github.com/1auti/spotify-clone-frontend)
 
-[Angular Frontend](https://github.com/C0de-cake/spotify-clone-front)
+![Pantalla del clon de Spotify 1](./spotify1.png)
+
+![Pantalla del clon de Spotify 2](./spotify2.png)
 
 ### Key Features :
 - 🔐 Security with Auth0 (OAuth2)
